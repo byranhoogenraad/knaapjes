@@ -1,0 +1,23 @@
+{
+	"stores":
+	[
+		{
+			"name": "Cafe Louis",
+			"street": "Singel 43",
+			"city": "Amsterdam",
+			"country": "Nederland"
+		},
+				{
+			"name": "Bierwinkel De Prael",
+			"street": "Oudezijds Voorburgwal 30",
+			"city": "Amsterdam ",
+			"country": "Nederland"
+		},
+		{
+			"name": "Bierkoning",
+			"street": "Paleisstraat 125",
+			"city": "Amsterdam  1012 ZL",
+			"country": "Nederland"
+		}
+	]
+}
